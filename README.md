@@ -42,7 +42,7 @@ A segurança e a privacidade dos nossos usuários são nossa prioridade. As den�
 
 ---
 
-## 👨‍💻 Para Desenvolvedores
+ ## 👨‍💻 Para Desenvolvedores
 
 ### 🔧 Requisitos do Sistema
 
